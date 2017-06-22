@@ -1,0 +1,25 @@
+c:\users\administrator\documents\visual studio 2010\Projects\McwdService\McwdService\bin\Debug\McwdService.exe.config
+C:\Users\Administrator\documents\visual studio 2010\Projects\McwdService\McwdService\obj\x86\Debug\McwdService.Installer1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\McwdService\McwdService\obj\x86\Debug\McwdService.Service1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\McwdService\McwdService\obj\x86\Debug\McwdService.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\McwdService\McwdService\bin\Debug\McwdService.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\McwdService\McwdService\bin\Debug\McwdService.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\McwdService\McwdService\bin\Debug\log4net.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\McwdService\McwdService\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\McwdService\McwdService\obj\x86\Debug\McwdService.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\McwdService\McwdService\obj\x86\Debug\McwdService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\McwdService\McwdService\obj\x86\Debug\McwdService.Form1.resources
+E:\WORK\VS\青海西宁热电厂\17年最新接口\McwdService\McwdService\bin\Debug\McwdService.exe.config
+E:\WORK\VS\青海西宁热电厂\17年最新接口\McwdService\McwdService\obj\x86\Debug\McwdService.exe
+E:\WORK\VS\青海西宁热电厂\17年最新接口\McwdService\McwdService\obj\x86\Debug\McwdService.pdb
+E:\McwdService\McwdService\bin\Debug\McwdService.exe.config
+E:\McwdService\McwdService\obj\x86\Debug\McwdService.exe
+E:\McwdService\McwdService\obj\x86\Debug\McwdService.pdb
+E:\McwdService\McwdService\bin\Debug\McwdService.exe
+E:\McwdService\McwdService\bin\Debug\McwdService.pdb
+E:\McwdService\McwdService\bin\Debug\log4net.dll
+E:\McwdService\McwdService\bin\Debug\MySql.Data.dll
+E:\McwdService\McwdService\obj\x86\Debug\McwdService.Form1.resources
+E:\McwdService\McwdService\obj\x86\Debug\McwdService.Installer1.resources
+E:\McwdService\McwdService\obj\x86\Debug\McwdService.Service1.resources
+E:\McwdService\McwdService\obj\x86\Debug\McwdService.csproj.GenerateResource.Cache
